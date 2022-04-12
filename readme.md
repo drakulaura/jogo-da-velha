@@ -16,9 +16,7 @@ que não traz grandes dificuldades para seus jogadores e é facilmente aprendido
 | ID | primeira tela | segunda tela |
 |----|---------------|----------------|
 | 1  | início de jogo | fim de jogo |
-| 2  | ![tela jogo](![jogo](https://user-images.githubusercontent.com/99741182/162993996-6c48fb48-2d11-4b6e-bcfd-6b309b059d90.png)
-) |![tela jogo](![jogo2](https://user-images.githubusercontent.com/99741182/162994056-52a55b92-61a6-4b96-9008-b487e7989b84.png)
-)     |
+| 2  | ![tela jogo](![jogo](https://user-images.githubusercontent.com/99741182/162993996-6c48fb48-2d11-4b6e-bcfd-6b309b059d90.png)|![tela jogo](![jogo2](https://user-images.githubusercontent.com/99741182/162994056-52a55b92-61a6-4b96-9008-b487e7989b84.png)   |
 
 
 ### funcão principal 
