@@ -11,7 +11,8 @@ que não traz grandes dificuldades para seus jogadores e é facilmente aprendido
 ### disponibilizado em 
 [githubpage] (https://github.com/drakulaura/jogo-da-velha)
 
-###criado por Aline Roa e Guilherme Mateus
+### criado por
+Aline Roa e Guilherme Mateus
 
 ### prints da tela
 
